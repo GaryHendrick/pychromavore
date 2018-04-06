@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# ignoring the data repo contained in this directory
+data/
